@@ -1,0 +1,17 @@
+{
+    "directories":{
+        "deployDir": "C:\\Users\\Stephen\\Documents\\Paradox Interactive\\Crusader Kings II\\Mod",
+        "include" : "lib"
+    },
+    "compilerOptions": {
+        "title": "My Mod!",
+        "modname": "mymod",
+        "picture": "mymod.jpg",
+        "deploy": "true"
+    },
+    "tags":
+    [
+        "Mods",
+        "Personal"
+    ]
+}
